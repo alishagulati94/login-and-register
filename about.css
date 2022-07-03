@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Open Sans",sans-serif;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f1f1f1;
+}
+.about-section{
+    background-image:url(about.jpg);
+    background-size:55%;
+    background-color :#fdfdfd;
+    overflow:hidden;
+    padding: 100px 0;
+}
